@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_blakely-pro">
+			<key name="blakely_*"/>
+		</key>
+	</admin-texts>
+</wpml-config>

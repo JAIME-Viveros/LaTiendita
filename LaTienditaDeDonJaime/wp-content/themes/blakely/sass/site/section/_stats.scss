@@ -1,0 +1,69 @@
+/**
+ * 14.10 - Stats
+ */
+
+
+
+.stats-content-wrapper .entry-header .entry-meta {
+    line-height: 1.62;
+    letter-spacing: 2px;
+    margin-top: 14px;
+    text-transform: uppercase;
+}
+
+.stats-section .hentry {
+    padding: 0 15px;
+    text-align: center;
+}
+
+.section-content-wrapper.stats-content-wrapper .post-thumbnail,
+.section-content-wrapper.stats-content-wrapper .post-thumbnail a img {
+    margin: 0;
+    width: 100%;
+}
+
+.stats-content-wrapper .entry-container {
+    overflow: hidden;
+}
+
+.stats-content-wrapper .entry-summary,
+.stats-content-wrapper .entry-content {
+    margin-top: 0;
+    margin-left: 14px;
+}
+
+.stats-content-area .section-heading-wrapper,
+.stats-content-area .section-content-wrapper {
+    width: 100%;
+}
+
+.section-content-wrapper.stats-content-wrapper .entry-summary {
+    margin: 14px 0 0;
+}
+
+.stats-content-area .stats-content-wrapper .entry-title {
+    margin-bottom: 7px;
+}
+
+.section-content-wrapper.stats-content-wrapper .hentry-inner .sub-title {
+    font-weight: 300;
+    line-height: 1.13;
+}
+
+.color-scheme-music .section-content-wrapper.stats-content-wrapper .hentry-inner .sub-title,
+.color-scheme-corporate .section-content-wrapper.stats-content-wrapper .hentry-inner .sub-title,
+.color-scheme-ecommerce .section-content-wrapper.stats-content-wrapper .hentry-inner .sub-title {
+    font-weight: 200;
+}
+
+.section-content-wrapper.stats-content-wrapper .hentry-inner .post-thumbnail {
+    margin: 0 auto 21px;
+    width: 70px;
+}
+#stats-section .more-link {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.stats-section .hentry .entry-header {
+    margin-top: 7px;
+}
